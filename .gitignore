@@ -1,0 +1,7 @@
+*.pyc
+__pycache__
+myvenv
+virtual
+db.sqlite3
+.DS_Store
+blog/migrations/*
